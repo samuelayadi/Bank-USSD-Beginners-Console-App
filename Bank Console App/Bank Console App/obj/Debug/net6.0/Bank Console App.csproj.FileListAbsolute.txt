@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\bin\Debug\net6.0\Bank Console App.exe
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\bin\Debug\net6.0\Bank Console App.deps.json
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\bin\Debug\net6.0\Bank Console App.runtimeconfig.json
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\bin\Debug\net6.0\Bank Console App.dll
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\bin\Debug\net6.0\Bank Console App.pdb
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.AssemblyInfo.cs
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.dll
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\refint\Bank Console App.dll
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.pdb
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\Bank Console App.genruntimeconfig.cache
+C:\Users\HP\source\repos\Bank Console App\Bank Console App\obj\Debug\net6.0\ref\Bank Console App.dll
